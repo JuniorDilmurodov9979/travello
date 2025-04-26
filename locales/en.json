@@ -1,0 +1,78 @@
+{
+  "header": {
+    "destinations": "Destinations",
+    "hotels": "Hotels",
+    "flights": "Flights",
+    "bookings": "Bookings",
+    "login": "Login",
+    "signUp": "Sign Up"
+  },
+  "hero": {
+    "red": "Best Destinations around the world",
+    "title": "Travel, enjoy and live a new and full life",
+    "subtitle": "Built Wicket longer admire do barton vanity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they west hard for the.",
+    "button1": "Find out more",
+    "button2": "Play Demo"
+  },
+  "category": {
+    "title": "Category",
+    "category_info": "We Offer Best Services",
+    "category1_title": "Calculated Weather",
+    "category1_text": "Built Wicket longer admire do barton vanity itself do in it.",
+    "category2_title": "Best Flight",
+    "category2_text": "Engrossed listening. Park gate sell they west hard for the.",
+    "category3_title": "Local Events",
+    "category3_text": "Barton vanity itself do in it. Preferd to men it engrossed listening. ",
+    "category4_title": "Customization",
+    "category4_text": "We deliver outsourced aviation services for military customers."
+  },
+  "destinations": {
+    "title": "Top Destinations",
+    "subtitle": "Top Selling",
+    "destination1_title": "Rome, Italy",
+    "destination1_date": "10 Days Trip",
+    "destination2_title": "London, UK",
+    "destination2_date": "12 Days Trip",
+    "destination3_title": "Full Europe",
+    "destination3_date": "28 Days Trip"
+  },
+  "trip": {
+    "title": "Book your next trip in 3 easy steps",
+    "subtitle": "Easy and Fast",
+    "item_title1": "Choose Destination",
+    "item_title2": "Make Payment",
+    "item_title3": "Reach Airport on Selected Date",
+    "card_title": "Trip to Greece",
+    "card_date": "June",
+    "card_author": "by Robbin Joseph",
+    "card_going": "24 people going"
+  },
+  "testimonials": {
+    "subtitle": "Testimonials",
+    "title": "What People Say About Us.",
+    "card_title": "“On the Windows talking painted pasture yet its express parties use. Sure last upon he same as knew next. Of believed or diverted no.”",
+    "card_author": "Mike taylor",
+    "card_location": "Lahore, Pakistan"
+  },
+  "subscribe": {
+    "title": "Subscribe to get information, latest news and other interesting offers about Jadoo",
+    "input": "Your email",
+    "btn": "Subscribe"
+  },
+  "footer": {
+    "subtitle": "Book your trip in minute, get fullControl for much longer.",
+    "title1": "Company",
+    "title2": "Contact",
+    "title3": "More",
+    "bottom_text": "All rights reserved @jadooo.co",
+    "item1_text1": "About",
+    "item1_text2": "Careers",
+    "item1_text3": "Mobile",
+    "item2_text1": "Help/FAQ",
+    "item2_text2": "Press",
+    "item2_text3": "Affilates",
+    "item3_text1": "Airlinefees",
+    "item3_text2": "Airline",
+    "item3_text3": "Low fare tips"
+  }
+}

@@ -1,0 +1,15 @@
+.destinations_top-wrapper {
+  position: relative;
+  background-image: url(../images/destinationBg.svg);
+  background-repeat: no-repeat;
+  background-position: 97% 90%;
+  z-index: -1;
+  /* background-size: cover; */
+}
+
+.subs_form {
+  background-image: url("../images/subscBg2.png"), url("../images/subscBg.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 0%+150px, 110%-120px;
+}

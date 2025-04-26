@@ -1,0 +1,79 @@
+{
+  "header": {
+    "destinations": "Manzillar",
+    "hotels": "Mehmonxonalar",
+    "flights": "Parvozlar",
+    "bookings": "Buyurtmalar",
+    "login": "Kirish",
+    "signUp": "Ro'yxatdan o'tish"
+  },
+  "hero": {
+    "red": "Dunyo bo'ylab eng yaxshi manzillar",
+    "title": "Sayohat qiling, rohatlaning va yangi, to‘liq hayot kechiring",
+    "subtitle": "Wicket’ni qurish ko‘proq qoyil qolishga arzigulik edi, barton esa o‘zini befoyda narsalarda ko‘rsatdi. Sportchilarga ko‘proq yoqdi, ular tinglashga qiziqib qolishdi. Park darvozasi orqali ular g‘arb tomonga sotishni qiyin deb bildilar.",
+    "button1": "Batafsil ma’lumot",
+    "button2": "Demoni ko‘rish"
+  },
+  "category": {
+    "title": "Kategoriya",
+    "category_info": "Eng Yaxshi Xizmatlarni Taklif Qilamiz",
+    "category1_title": "Hisoblangan Ob-havo",
+    "category1_text": "Wicketni qurilgan uzunroq, o'zini unga maftun qilgan. ",
+    "category2_title": "Eng Yaxshi Parvoz",
+    "category2_text": "Tinglashga maftun. Park eshigi ular uchun g'arbga qarshi ishlashadi. ",
+    "category3_title": "Mahalliy Tadbirlar",
+    "category3_text": "Bartonning o'zi unga maftun. Erkaklarga afzal ko'rilgan, uni tinglashga maftun.",
+    "category4_title": "Moslashuvchanlik",
+    "category4_text": "Biz harbiy mijozlar uchun tashqi aviatsiya xizmatlarini taqdim etamiz."
+  },
+  "destinations": {
+    "title": "Eng Yaxshi Manzillar",
+    "subtitle": "Eng Ko'p Sotilgan",
+    "destination1_title": "Rim, Italiya",
+    "destination1_date": "10 Kunlik Sayohat",
+    "destination2_title": "London, Buyuk Britaniya",
+    "destination2_date": "12 Kunlik Sayohat",
+    "destination3_title": "Butun Yevropa",
+    "destination3_date": "28 Kunlik Sayohat"
+  },
+  "trip": {
+    "title": "O'zingizning keyingi sayohatingizni 3 oson qadamda bron qiling",
+    "subtitle": "Oson va tez",
+    "item_title1": "Manzilni tanlash",
+    "item_title2": "To'lovni amalga oshirish",
+    "item_title3": "Tanlangan sanada aeroportga yetib borish",
+    "card_title": "Gretsiyaga sayohat",
+    "card_date": "Iyun",
+    "card_author": "Robbin Joseph tomonidan",
+    "card_going": "24 kishi boradi"
+  },
+  "testimonials": {
+    "subtitle": "Fikrlar",
+    "title": "Odamlar biz haqimizda nima deydi.",
+    "card_title": "“Derazalarda gaplashayotgan bo'yoqli yaylov hali ham o'z partiyalarini ishlatadi. Albatta, oxirgi marta u bir xil edi, keyingi haqida bilgan edi. Ishonilgan yoki yo'naltirilgan yo'q.”",
+    "card_author": "Mayk Teylor",
+    "card_location": "Lahor, Pokiston"
+  },
+
+  "subscribe": {
+    "title": "Ma’lumot, so‘nggi yangiliklar va Jadoo haqidagi boshqa qiziqarli takliflarni olish uchun obuna bo‘ling",
+    "input": "Elektron pochtangiz",
+    "btn": "Obuna bo‘lish"
+  },
+  "footer": {
+    "subtitle": "Bir daqiqada sayohatingizni bron qiling, ko‘proq nazoratga ega bo‘ling",
+    "title1": "Kompaniya",
+    "title2": "Aloqa",
+    "title3": "Boshqa",
+    "bottom_text": "Barcha huquqlar himoyalangan @jadooo.co",
+    "item1_text1": "Biz haqimizda",
+    "item1_text2": "Karyera",
+    "item1_text3": "Mobil ilova",
+    "item2_text1": "Yordam/Tez-tez so‘raladigan savollar",
+    "item2_text2": "Matbuot",
+    "item2_text3": "Hamkorlar",
+    "item3_text1": "Aviabetallar",
+    "item3_text2": "Aviakompaniyalar",
+    "item3_text3": "Arzon chiptalar bo‘yicha maslahatlar"
+  }
+}
